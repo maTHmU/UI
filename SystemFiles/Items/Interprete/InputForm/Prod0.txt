@@ -1,0 +1,11 @@
+Priority = 110
+0 RowBox 2
+0 UnderoverscriptBox 3
+1 220F
+0 RowBox 3
+-1 0
+1 003D
+-1 1
+-1 2
+-1 3
+InputForm = Product[%(3), {%(0), %(1), %(2)}]

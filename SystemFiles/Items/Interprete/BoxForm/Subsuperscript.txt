@@ -1,0 +1,7 @@
+Priority = 10
+0 4
+1 Subsuperscript
+-1 0 1
+-1 1 0
+-1 2 0
+BoxForm = SubsuperscriptBox[%(0), %(1), %(2)]

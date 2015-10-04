@@ -1,0 +1,3 @@
+Unicode = 0115
+AliasNumber = 1
+eu

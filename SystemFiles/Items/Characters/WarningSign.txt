@@ -1,0 +1,2 @@
+Unicode = F725
+AliasNumber = 0

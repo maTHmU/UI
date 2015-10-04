@@ -1,0 +1,3 @@
+Unicode = F74F
+AliasNumber = 1
+jj

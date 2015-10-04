@@ -1,0 +1,7 @@
+Math Basic_Math_Input
+Greek Greek_Letters
+Algebra Algebraic_Manipulation
+Geometry Geometry
+Integrate Integrate
+Matrix Matrix
+Special Spacial_Characters

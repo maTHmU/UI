@@ -1,0 +1,5 @@
+Unicode = 03C6
+AliasNumber = 3
+j
+cph
+cphi

@@ -1,0 +1,50 @@
+File File 0
+File_New New 0
+File_Open Open 0
+File_Close Close 0
+File_CloseAll Close_All 4
+File_Save Save 0
+File_SaveAs Save_As 5
+File_Exit Exit 1
+
+Edit Edit 0
+Edit_UnDo UnDo 0
+Edit_ReDo ReDo 2
+Edit_Cut Cut 2
+Edit_Copy Copy 0
+Edit_Paste Paste 0
+Edit_Clear Clear 4
+Edit_Find Find... 0
+Edit_FindNext FindNext 4
+Edit_FindPrevious FindPrevious 7
+
+Insert Insert 0
+Insert_BoxStruct BoxStruct 0
+Insert_BoxStruct_SuperscriptBox SuperscriptBox 2
+Insert_BoxStruct_SubscriptBox SubscriptBox 2
+Insert_BoxStruct_SubsuperscriptBox SubsuperscriptBox 6
+Insert_BoxStruct_UnderscriptBox UnderscriptBox 2
+Insert_BoxStruct_OverscriptBox OverscriptBox 0
+Insert_BoxStruct_UnderoverscriptBox UnderoverscriptBox 0
+Insert_BoxStruct_FractionBox FractionBox 0
+Insert_BoxStruct_SqrtBox SqrtBox 0
+Insert_BoxStruct_RadicalBox RadicalBox 0
+
+Palletes Palletes 0
+Palletes_AlgebraicManipulation Algebraic_Manipulation 0
+Palletes_BasicMathInput Basic_Math_Input 0
+Palletes_SpecialCharacters Special_Characters 0
+Palletes_InstallPallete Install_Pallete... 0
+
+Windows Windows 0
+Windows_LookAndFeel Look_And_Feel 0
+Windows_LookAndFeel_Windows Windows 0
+Windows_LookAndFeel_Metal Metal 0
+Windows_LookAndFeel_Motif Motif 1
+Windows_Language Language 1
+Windows_Preferences Preferences 10
+
+Help Help 0
+Help_HelpCenter Help_Center 0
+Help_FindSelectedFunction Find_Selected_Function 0
+Help_AboutmaTHmU About_maTHmU 0

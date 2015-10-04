@@ -1,0 +1,3 @@
+Unicode = 25FB
+AliasNumber = 1
+essq

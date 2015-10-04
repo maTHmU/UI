@@ -1,0 +1,2 @@
+Unicode = 003D
+AliasNumber = 0

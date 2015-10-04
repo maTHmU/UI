@@ -1,0 +1,10 @@
+Symbols = 2
+Operators = 4
+0 2211 1.0
+1 0000 1.0
+0 003D 1.0
+1 0000 1.0
+1 0000 1.0
+1 0000 1.0
+CurrentAsFirst = 0
+ItemTurn = RowBox(UnderoverscriptBox(0[0;0],RowBox(1[0;0],2[1;0],3[2;0])[0;1],4[0;2])[0;0],5[1;0])[0;0]

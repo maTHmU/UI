@@ -1,0 +1,4 @@
+Unicode = 03C4
+AliasNumber = 2
+t
+tau

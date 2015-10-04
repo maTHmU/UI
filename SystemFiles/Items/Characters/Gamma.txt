@@ -1,0 +1,4 @@
+Unicode = 03B3
+AliasNumber = 2
+g
+gamma

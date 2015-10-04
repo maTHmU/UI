@@ -1,0 +1,3 @@
+Unicode = 301A
+AliasNumber = 1
+[[

@@ -1,0 +1,3 @@
+Unicode = 00F0
+AliasNumber = 1
+d-

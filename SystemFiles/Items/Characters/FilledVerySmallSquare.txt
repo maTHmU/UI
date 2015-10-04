@@ -1,0 +1,3 @@
+Unicode = 25AA
+AliasNumber = 1
+fvssq

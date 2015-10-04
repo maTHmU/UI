@@ -1,0 +1,2 @@
+Unicode = 29CF
+AliasNumber = 0

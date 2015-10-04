@@ -1,0 +1,16 @@
+0 Default
+1 Courier New Bold
+2 Mathematica1Mono-Bold
+3 Mathematica2Mono-Bold
+4 Mathematica3Mono-Bold
+5 Mathematica4Mono-Bold
+6 Mathematica5Mono-Bold
+7 Mathematica6Mono-Bold
+8 Mathematica7Mono-Bold
+9 FE Internal
+10 Zapf Dingbats
+11 Kanji
+12 Korean
+13 ËÎÌו
+14 Á¥Êי
+15 Klingon

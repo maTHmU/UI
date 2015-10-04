@@ -1,0 +1,4 @@
+Unicode = 00AC
+AliasNumber = 2
+!
+not

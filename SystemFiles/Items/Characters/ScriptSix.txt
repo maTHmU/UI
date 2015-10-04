@@ -1,0 +1,3 @@
+Unicode = F7F6
+AliasNumber = 1
+sc6

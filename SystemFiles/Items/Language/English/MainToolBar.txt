@@ -1,0 +1,21 @@
+File_New New
+File_Open Open
+File_Save Save
+File_SaveAs Save_As
+File_Close Close
+File_Exit Exit
+
+Edit_UnDo UnDo
+Edit_ReDo ReDo
+Edit_Find Find
+
+Edit_Cut Cut
+Edit_Copy Copy
+Edit_Paste Paste
+Edit_Clear Clear
+
+Palletes_AlgebraicManipulation Algebraic_Manipulation_Pallete
+Palletes_BasicMathInput Basic_Math_Input_Pallete
+
+Windows_Preferences Preferences
+Help_HelpCenter Help_Center

@@ -1,0 +1,2 @@
+Unicode = 2960
+AliasNumber = 0

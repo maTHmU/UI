@@ -1,0 +1,4 @@
+Unicode = 03A0
+AliasNumber = 2
+P
+Pi

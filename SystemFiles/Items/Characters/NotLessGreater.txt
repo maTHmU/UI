@@ -1,0 +1,2 @@
+Unicode = 2278
+AliasNumber = 0

@@ -1,0 +1,3 @@
+Unicode = 012C
+AliasNumber = 1
+Iu

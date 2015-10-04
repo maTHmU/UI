@@ -1,0 +1,5 @@
+Priority = 10
+0 2
+1 SubPlus
+-1 0 1
+BoxForm = SubscriptBox[%(0), "+"]

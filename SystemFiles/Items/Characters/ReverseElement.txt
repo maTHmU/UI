@@ -1,0 +1,3 @@
+Unicode = 220B
+AliasNumber = 1
+mem

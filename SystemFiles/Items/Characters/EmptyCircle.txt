@@ -1,0 +1,3 @@
+Unicode = 25CB
+AliasNumber = 1
+eci

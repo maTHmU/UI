@@ -1,0 +1,4 @@
+Unicode = 039A
+AliasNumber = 2
+K
+Kappa

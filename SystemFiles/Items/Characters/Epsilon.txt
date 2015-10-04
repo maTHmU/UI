@@ -1,0 +1,4 @@
+Unicode = 03F5
+AliasNumber = 2
+e
+epsilon

@@ -1,0 +1,4 @@
+Unicode = 03BD
+AliasNumber = 2
+n
+nu

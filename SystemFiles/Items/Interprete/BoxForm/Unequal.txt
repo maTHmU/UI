@@ -1,0 +1,6 @@
+Priority = 10
+0 3
+1 Unequal
+-1 0 1
+-1 1 1
+BoxForm = RowBox[{%(0), "\[NotEqual]", %(1)}]

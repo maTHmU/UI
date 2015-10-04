@@ -1,0 +1,3 @@
+Unicode = F7B7
+AliasNumber = 1
+dsT

@@ -1,0 +1,2 @@
+Unicode = 22EE
+AliasNumber = 0

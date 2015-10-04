@@ -1,0 +1,2 @@
+Unicode = 2292
+AliasNumber = 0

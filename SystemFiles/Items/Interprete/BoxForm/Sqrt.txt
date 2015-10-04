@@ -1,0 +1,5 @@
+Priority = 10
+0 2
+1 Sqrt
+-1 0 0
+BoxForm = SqrtBox[%(0)]

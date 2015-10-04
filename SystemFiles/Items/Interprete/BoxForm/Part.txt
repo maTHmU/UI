@@ -1,0 +1,6 @@
+Priority = 10
+0 3
+1 Part
+-1 0 1
+-1 1 0
+BoxForm = SubscriptBox[%(0), RowBox[{"\[LeftDoubleBracket]", %(1), "\[RightDoubleBracket]"}]]

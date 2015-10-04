@@ -1,0 +1,2 @@
+Unicode = 22EC
+AliasNumber = 0

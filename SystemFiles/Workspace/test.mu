@@ -1,0 +1,2 @@
+Cell[BoxData[{"GroebnerBasis[{a x+b y-c,d x+e y-f},{y,a,b,c,d,x}]"}], "Input"]
+Cell[BoxData[{RowBox[{"{", RowBox[{RowBox[{RowBox[{"-", "f"}], "+", RowBox[{"e", "y"}]}], "+", RowBox[{"d", "x"}]}], ", ", RowBox[{RowBox[{RowBox[{"-", "c"}], "+", RowBox[{"b", "y"}]}], "+", RowBox[{"a", "x"}]}], ", ", RowBox[{RowBox[{RowBox[{"c", "d"}], RowBox[{"-", RowBox[{"b", RowBox[{"d", "y"}]}]}]}], "+", RowBox[{"a", RowBox[{"(", RowBox[{RowBox[{"-", "f"}], "+", RowBox[{"e", "y"}]}], ")"}]}]}], "}"}]}], "Output"]

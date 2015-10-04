@@ -1,0 +1,3 @@
+Unicode = 226E
+AliasNumber = 1
+!<

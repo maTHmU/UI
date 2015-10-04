@@ -1,0 +1,4 @@
+Unicode = 03B1
+AliasNumber = 2
+a
+alpha

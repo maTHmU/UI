@@ -1,0 +1,3 @@
+Unicode = F6BE
+AliasNumber = 1
+scm

@@ -1,0 +1,3 @@
+Priority = 10
+1 Infinity
+BoxForm = "\[Infinity]"

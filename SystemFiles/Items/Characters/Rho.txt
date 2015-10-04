@@ -1,0 +1,4 @@
+Unicode = 03C1
+AliasNumber = 2
+r
+rho

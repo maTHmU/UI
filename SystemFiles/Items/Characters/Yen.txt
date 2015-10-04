@@ -1,0 +1,2 @@
+Unicode = 00A5
+AliasNumber = 0

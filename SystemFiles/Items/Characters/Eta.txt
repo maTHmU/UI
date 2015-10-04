@@ -1,0 +1,5 @@
+Unicode = 03B7
+AliasNumber = 3
+et
+eta
+h

@@ -1,0 +1,3 @@
+Unicode = F77A
+AliasNumber = 1
+scK

@@ -1,0 +1,7 @@
+Math 基本数学输入
+Greek 希腊字母
+Algebra 代数运算
+Geometry 几何
+Integrate 积分
+Matrix 矩阵
+Special 特殊字符

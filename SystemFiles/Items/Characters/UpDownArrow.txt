@@ -1,0 +1,2 @@
+Unicode = 2195
+AliasNumber = 0

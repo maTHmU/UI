@@ -1,0 +1,2 @@
+Unicode = 20AC
+AliasNumber = 0

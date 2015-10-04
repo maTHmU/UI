@@ -1,0 +1,2 @@
+Unicode = 00B6
+AliasNumber = 0

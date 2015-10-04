@@ -1,0 +1,9 @@
+Priority = 100
+0 RowBox 2
+1 222F
+0 RowBox 2
+-1 0
+0 RowBox 2
+1 F74C
+-1 1
+InputForm = ContourIntegral[%(0), %(1)]

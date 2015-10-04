@@ -1,0 +1,4 @@
+Unicode = 03BF
+AliasNumber = 2
+om
+omicron

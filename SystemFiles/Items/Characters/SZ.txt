@@ -1,0 +1,4 @@
+Unicode = 00DF
+AliasNumber = 2
+sz
+ss

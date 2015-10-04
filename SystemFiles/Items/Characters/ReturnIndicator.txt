@@ -1,0 +1,3 @@
+Unicode = 21B5
+AliasNumber = 1
+ret

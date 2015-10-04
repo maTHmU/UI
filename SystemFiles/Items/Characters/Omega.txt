@@ -1,0 +1,5 @@
+Unicode = 03C9
+AliasNumber = 3
+o
+omega
+w

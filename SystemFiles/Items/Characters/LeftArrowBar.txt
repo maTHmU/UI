@@ -1,0 +1,2 @@
+Unicode = 21E4
+AliasNumber = 0

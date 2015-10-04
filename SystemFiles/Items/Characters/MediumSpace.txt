@@ -1,0 +1,3 @@
+Unicode = 205F
+AliasNumber = 1
+Esc

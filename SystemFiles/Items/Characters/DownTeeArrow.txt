@@ -1,0 +1,2 @@
+Unicode = 21A7
+AliasNumber = 0

@@ -1,0 +1,2 @@
+Unicode = 25B8
+AliasNumber = 0

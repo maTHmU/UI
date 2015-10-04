@@ -1,0 +1,2 @@
+Unicode = 228F
+AliasNumber = 0

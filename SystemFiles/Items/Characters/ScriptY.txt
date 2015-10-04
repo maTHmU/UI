@@ -1,0 +1,3 @@
+Unicode = F6CA
+AliasNumber = 1
+scy

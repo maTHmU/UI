@@ -1,0 +1,6 @@
+Symbols = 0
+Operators = 1
+1 0000 1.0
+CurrentAsFirst = 1
+ItemTurn = SqrtBox(0[0;0])[0;0]
+InputForm = Sqrt[0]

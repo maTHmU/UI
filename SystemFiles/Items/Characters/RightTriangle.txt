@@ -1,0 +1,2 @@
+Unicode = 22B3
+AliasNumber = 0

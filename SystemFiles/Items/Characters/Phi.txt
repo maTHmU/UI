@@ -1,0 +1,5 @@
+Unicode = 03D5
+AliasNumber = 3
+ph
+phi
+f

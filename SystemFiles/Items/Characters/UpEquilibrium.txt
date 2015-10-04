@@ -1,0 +1,2 @@
+Unicode = 296E
+AliasNumber = 0

@@ -1,0 +1,2 @@
+Unicode = 224E
+AliasNumber = 0

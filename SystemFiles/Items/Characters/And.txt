@@ -1,0 +1,4 @@
+Unicode = 2227
+AliasNumber = 2
+&&
+and

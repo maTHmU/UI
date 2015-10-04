@@ -1,0 +1,2 @@
+Unicode = F42F
+AliasNumber = 0

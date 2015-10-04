@@ -1,0 +1,6 @@
+Priority = 10
+0 3
+1 D
+-1 0 1
+-1 1 0
+BoxForm = RowBox[{SubscriptBox["\[PartialD]", %(1)], " ", %(0)}]

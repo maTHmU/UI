@@ -1,0 +1,5 @@
+Priority = 100
+0 SubscriptBox 2
+-1 0
+1 002B
+InputForm = SubPlus[%(0)]

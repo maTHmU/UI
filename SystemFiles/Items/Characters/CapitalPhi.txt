@@ -1,0 +1,5 @@
+Unicode = 03A6
+AliasNumber = 3
+Ph
+Phi
+F

@@ -1,0 +1,4 @@
+Unicode = 039F
+AliasNumber = 2
+Om
+Omicron

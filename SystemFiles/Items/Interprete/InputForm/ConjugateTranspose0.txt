@@ -1,0 +1,5 @@
+Priority = 100
+0 SuperscriptBox 2
+-1 0
+1 F3C9
+InputForm = ConjugateTranspose[%(0)]

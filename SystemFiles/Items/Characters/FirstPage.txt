@@ -1,0 +1,2 @@
+Unicode = F7FA
+AliasNumber = 0

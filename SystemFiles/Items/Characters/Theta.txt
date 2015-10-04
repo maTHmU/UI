@@ -1,0 +1,5 @@
+Unicode = 03B8
+AliasNumber = 3
+th
+theta
+q

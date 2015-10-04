@@ -1,0 +1,2 @@
+Unicode = 2642
+AliasNumber = 0

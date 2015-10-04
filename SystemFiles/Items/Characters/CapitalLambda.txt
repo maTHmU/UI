@@ -1,0 +1,4 @@
+Unicode = 039B
+AliasNumber = 2
+L
+Lambda

@@ -1,0 +1,3 @@
+Unicode = F361
+AliasNumber = 1
+pw

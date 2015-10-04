@@ -1,0 +1,3 @@
+Unicode = 2118
+AliasNumber = 1
+scP

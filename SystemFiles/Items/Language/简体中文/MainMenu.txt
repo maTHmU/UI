@@ -1,0 +1,50 @@
+File 文件(F) 3
+File_New 新建(N) 3
+File_Open 打开(O) 3
+File_Close 关闭(C) 3
+File_CloseAll 关闭全部(E) 5
+File_Save 保存(S) 3
+File_SaveAs 另存为(A) 4
+File_Exit 退出(X) 3
+
+Edit 编辑(E) 3
+Edit_UnDo 撤销(U) 3
+Edit_ReDo 重做(D) 3
+Edit_Cut 剪切(T) 3
+Edit_Copy 复制(C) 3
+Edit_Paste 粘贴(P) 3
+Edit_Clear 删除(R) 3
+Edit_Find 寻找…(F) 4
+Edit_FindNext 寻找下一个(N) 6
+Edit_FindPrevious 寻找前一个(V) 6
+
+Insert 插入(I) 3
+Insert_BoxStruct 特殊结构(B) 5
+Insert_BoxStruct_SuperscriptBox 上标(P) 3
+Insert_BoxStruct_SubscriptBox 下标(B) 3
+Insert_BoxStruct_SubsuperscriptBox 上下标(E) 4
+Insert_BoxStruct_UnderscriptBox 底标(D) 3
+Insert_BoxStruct_OverscriptBox 顶标(O) 3
+Insert_BoxStruct_UnderoverscriptBox 底顶标(U) 4
+Insert_BoxStruct_FractionBox 分数式(F) 4
+Insert_BoxStruct_SqrtBox 二次根式(S) 5
+Insert_BoxStruct_RadicalBox 高次根式(R) 5
+
+Palletes 输入面板(P) 5
+Palletes_AlgebraicManipulation 代数运算(A) 5
+Palletes_BasicMathInput 基本数学输入(B) 7
+Palletes_SpecialCharacters 特殊字符(S) 5
+Palletes_InstallPallete 装入面板(I) 5
+
+Windows 窗口(W) 3
+Windows_LookAndFeel 外观(L) 3
+Windows_LookAndFeel_Windows Windows风格(W) 10
+Windows_LookAndFeel_Metal Metal风格(M) 8
+Windows_LookAndFeel_Motif Motif风格(O) 8
+Windows_Language 语言(A) 3
+Windows_Preferences 使用偏好(S) 5
+
+Help 帮助(H) 3
+Help_HelpCenter 帮助中心(H) 5
+Help_FindSelectedFunction 寻找选定函数(F) 7
+Help_AboutmaTHmU 关于maTHmU(A) 9

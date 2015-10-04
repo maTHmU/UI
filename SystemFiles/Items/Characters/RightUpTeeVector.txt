@@ -1,0 +1,2 @@
+Unicode = 295C
+AliasNumber = 0

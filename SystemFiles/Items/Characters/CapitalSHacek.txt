@@ -1,0 +1,3 @@
+Unicode = 0160
+AliasNumber = 1
+Sv

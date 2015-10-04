@@ -1,0 +1,2 @@
+Unicode = 227E
+AliasNumber = 0

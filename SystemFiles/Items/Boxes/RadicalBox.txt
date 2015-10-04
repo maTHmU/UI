@@ -1,0 +1,7 @@
+BoxID = 8
+SymbolNumber = 2
+ItemNumber = 2
+1 1 1.0
+0 0 0.7
+1 0 1.0
+0 1 1.0

@@ -1,0 +1,5 @@
+Priority = 10
+0 2
+1 OverVector
+-1 0 0
+BoxForm = OverscriptBox[%(0), "\[RightVector]"]

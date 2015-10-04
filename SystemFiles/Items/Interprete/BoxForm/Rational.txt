@@ -1,0 +1,6 @@
+Priority = 10
+0 3
+1 Rational
+-1 0 0
+-1 1 0
+BoxForm = FractionBox[%(0), %(1)]

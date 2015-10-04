@@ -1,0 +1,2 @@
+Unicode = F52B
+AliasNumber = 0

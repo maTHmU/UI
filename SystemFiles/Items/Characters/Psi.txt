@@ -1,0 +1,5 @@
+Unicode = 03C8
+AliasNumber = 3
+ps
+psi
+y

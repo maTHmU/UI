@@ -1,0 +1,5 @@
+Priority = 100
+0 OverscriptBox 2
+-1 0
+1 002E
+InputForm = OverDot[%(0), 1]

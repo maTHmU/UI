@@ -1,0 +1,5 @@
+Priority = 1
+0 RowBox 2
+-1 0
+-1 1
+InputForm = %(0)%(1)

@@ -1,0 +1,5 @@
+Unicode = 03A7
+AliasNumber = 3
+Ch
+Chi
+C

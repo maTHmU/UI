@@ -1,0 +1,3 @@
+Unicode = 0106
+AliasNumber = 1
+C'

@@ -1,0 +1,2 @@
+Unicode = 0024
+AliasNumber = 0

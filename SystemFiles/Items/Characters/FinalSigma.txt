@@ -1,0 +1,3 @@
+Unicode = 03C2
+AliasNumber = 1
+fs

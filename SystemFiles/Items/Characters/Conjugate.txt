@@ -1,0 +1,4 @@
+Unicode = F3C8
+AliasNumber = 2
+co
+conj

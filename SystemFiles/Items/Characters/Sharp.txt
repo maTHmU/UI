@@ -1,0 +1,2 @@
+Unicode = 266F
+AliasNumber = 0

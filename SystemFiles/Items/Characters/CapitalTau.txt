@@ -1,0 +1,4 @@
+Unicode = 03A4
+AliasNumber = 2
+T
+Tau

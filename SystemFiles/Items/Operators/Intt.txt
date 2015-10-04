@@ -1,0 +1,9 @@
+Symbols = 2
+Operators = 2
+0 222B 1.0
+1 0000 1.0
+0 F74C 1.0
+1 0000 1.0
+CurrentAsFirst = 0
+ItemTurn = RowBox(0[0;0],RowBox(1[0;0],RowBox(2[0;0],3[1;0])[1;0])[1;0])[0;0]
+InputForm = Integrate[1, 3]

@@ -1,0 +1,5 @@
+Unicode = 03D1
+AliasNumber = 3
+cq
+cth
+ctheta

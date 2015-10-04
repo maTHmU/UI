@@ -1,0 +1,4 @@
+Unicode = 03C5
+AliasNumber = 2
+u
+upsilon

@@ -1,0 +1,82 @@
+Notebook[{
+
+Cell[CellGroupData[{
+Cell[BoxData[
+ RowBox[{"D", "[", 
+  RowBox[{
+   RowBox[{"f", "[", 
+    RowBox[{"g", "[", 
+     RowBox[{"h", "[", "x", "]"}], "]"}], "]"}], ",", " ", "x"}], 
+  "]"}]]],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{
+   SuperscriptBox["f", "\[Prime]"], "[", 
+   RowBox[{"g", "[", 
+    RowBox[{"h", "[", "x", "]"}], "]"}], "]"}], " ", 
+  RowBox[{
+   SuperscriptBox["g", "\[Prime]"], "[", 
+   RowBox[{"h", "[", "x", "]"}], "]"}], " ", 
+  RowBox[{
+   SuperscriptBox["h", "\[Prime]"], "[", "x", "]"}]}]]]
+}]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"\[Integral]", 
+  RowBox[{
+   SuperscriptBox["x", "5"], 
+   SqrtBox[
+    RowBox[{
+     RowBox[{"a", " ", "x"}], "+", "b"}]], 
+   RowBox[{"\[DifferentialD]", "x"}]}]}]]],
+
+Cell[BoxData[
+ RowBox[{
+  FractionBox["1", 
+   RowBox[{"9009", " ", 
+    SuperscriptBox["a", "6"]}]], 
+  RowBox[{"2", " ", 
+   SqrtBox[
+    RowBox[{"b", "+", 
+     RowBox[{"a", " ", "x"}]}]], " ", 
+   RowBox[{"(", 
+    RowBox[{
+     RowBox[{
+      RowBox[{"-", "256"}], " ", 
+      SuperscriptBox["b", "6"]}], "+", 
+     RowBox[{"128", " ", "a", " ", 
+      SuperscriptBox["b", "5"], " ", "x"}], "-", 
+     RowBox[{"96", " ", 
+      SuperscriptBox["a", "2"], " ", 
+      SuperscriptBox["b", "4"], " ", 
+      SuperscriptBox["x", "2"]}], "+", 
+     RowBox[{"80", " ", 
+      SuperscriptBox["a", "3"], " ", 
+      SuperscriptBox["b", "3"], " ", 
+      SuperscriptBox["x", "3"]}], "-", 
+     RowBox[{"70", " ", 
+      SuperscriptBox["a", "4"], " ", 
+      SuperscriptBox["b", "2"], " ", 
+      SuperscriptBox["x", "4"]}], "+", 
+     RowBox[{"63", " ", 
+      SuperscriptBox["a", "5"], " ", "b", " ", 
+      SuperscriptBox["x", "5"]}], "+", 
+     RowBox[{"693", " ", 
+      SuperscriptBox["a", "6"], " ", 
+      SuperscriptBox["x", "6"]}]}], ")"}]}]}]]]
+}]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"100", "!"}]]],
+
+Cell[BoxData[\
+"93326215443944152681699238856266700490715968264381621468592963895217599993229\
+915608941463976156518286253697920827223758251185210916864000000000000000000000\
+000"]]
+}]]
+}]

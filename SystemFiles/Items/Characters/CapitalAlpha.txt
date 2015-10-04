@@ -1,0 +1,4 @@
+Unicode = 0391
+AliasNumber = 2
+A
+Alpha

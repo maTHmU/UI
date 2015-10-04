@@ -1,0 +1,2 @@
+Unicode = 221F
+AliasNumber = 0

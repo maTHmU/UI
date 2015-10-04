@@ -1,0 +1,4 @@
+Unicode = 03BB
+AliasNumber = 2
+l
+lambda

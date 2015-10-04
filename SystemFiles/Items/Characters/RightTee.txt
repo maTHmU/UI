@@ -1,0 +1,3 @@
+Unicode = 22A2
+AliasNumber = 1
+rT

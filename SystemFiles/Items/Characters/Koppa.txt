@@ -1,0 +1,4 @@
+Unicode = 03DF
+AliasNumber = 2
+ko
+koppa

@@ -1,0 +1,6 @@
+Priority = 10
+0 3
+1 CounterClockwiseContourIntegral
+-1 0 0
+-1 1 1
+BoxForm = RowBox[{"\[CounterClockwiseContourIntegral]", RowBox[{%(0), RowBox[{"\[DifferentialD]", %(1)}]}]}]

@@ -1,0 +1,4 @@
+Unicode = 0394
+AliasNumber = 2
+D
+Delta

@@ -1,0 +1,3 @@
+Unicode = 210F
+AliasNumber = 1
+hb

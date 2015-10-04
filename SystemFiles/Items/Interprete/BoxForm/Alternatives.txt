@@ -1,0 +1,5 @@
+Priority = 10
+0 -1 1
+1 Alternatives
+BoxForm = RowBox[{%(0)}]
+Separator = "|"

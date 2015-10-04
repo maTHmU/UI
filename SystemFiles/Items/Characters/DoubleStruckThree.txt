@@ -1,0 +1,3 @@
+Unicode = F7DE
+AliasNumber = 1
+ds3

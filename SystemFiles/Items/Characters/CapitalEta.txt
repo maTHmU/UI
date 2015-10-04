@@ -1,0 +1,5 @@
+Unicode = 0397
+AliasNumber = 3
+Et
+Eta
+H

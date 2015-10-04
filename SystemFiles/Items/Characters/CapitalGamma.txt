@@ -1,0 +1,4 @@
+Unicode = 0393
+AliasNumber = 2
+G
+Gamma

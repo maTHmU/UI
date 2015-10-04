@@ -1,0 +1,4 @@
+Unicode = 03DB
+AliasNumber = 2
+sti
+stigma

@@ -1,0 +1,2 @@
+Unicode = F700
+AliasNumber = 0

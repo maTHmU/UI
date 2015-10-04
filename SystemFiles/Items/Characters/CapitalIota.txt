@@ -1,0 +1,4 @@
+Unicode = 0399
+AliasNumber = 2
+I
+Iota

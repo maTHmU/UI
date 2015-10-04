@@ -1,0 +1,4 @@
+Unicode = 0392
+AliasNumber = 2
+B
+Beta

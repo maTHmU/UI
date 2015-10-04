@@ -1,0 +1,4 @@
+Unicode = 03D6
+AliasNumber = 2
+cp
+cpi

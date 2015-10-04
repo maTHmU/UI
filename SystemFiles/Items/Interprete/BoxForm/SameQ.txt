@@ -1,0 +1,6 @@
+Priority = 10
+0 3
+1 SameQ
+-1 0 1
+-1 1 1
+BoxForm = RowBox[{%(0), "===", %(1)}]

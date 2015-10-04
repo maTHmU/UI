@@ -1,0 +1,2 @@
+Unicode = 0192
+AliasNumber = 0

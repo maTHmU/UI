@@ -1,0 +1,3 @@
+Unicode = 25CF
+AliasNumber = 1
+fci

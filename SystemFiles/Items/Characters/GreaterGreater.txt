@@ -1,0 +1,2 @@
+Unicode = 226B
+AliasNumber = 0

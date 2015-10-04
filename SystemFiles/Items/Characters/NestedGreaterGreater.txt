@@ -1,0 +1,2 @@
+Unicode = 2AA2
+AliasNumber = 0

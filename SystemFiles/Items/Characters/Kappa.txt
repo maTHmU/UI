@@ -1,0 +1,4 @@
+Unicode = 03BA
+AliasNumber = 2
+k
+kappa

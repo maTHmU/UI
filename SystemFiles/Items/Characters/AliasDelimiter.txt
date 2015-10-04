@@ -1,0 +1,2 @@
+Unicode = F764
+AliasNumber = 0

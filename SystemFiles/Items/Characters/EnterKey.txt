@@ -1,0 +1,3 @@
+Unicode = F7D4
+AliasNumber = 1
+ent

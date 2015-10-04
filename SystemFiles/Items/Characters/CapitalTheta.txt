@@ -1,0 +1,5 @@
+Unicode = 0398
+AliasNumber = 3
+Th
+Theta
+Q

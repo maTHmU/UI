@@ -1,0 +1,4 @@
+Unicode = 03BC
+AliasNumber = 2
+m
+mu

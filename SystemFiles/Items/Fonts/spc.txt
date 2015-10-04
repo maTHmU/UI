@@ -1,0 +1,3 @@
+0xF3A5	\[FractionLine]
+0xF3A6	 square root
+0xF3A7	 line across top of root

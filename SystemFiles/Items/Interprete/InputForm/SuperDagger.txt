@@ -1,0 +1,5 @@
+Priority = 100
+0 SuperscriptBox 2
+-1 0
+1 2020
+InputForm = SuperDagger[%(0)]

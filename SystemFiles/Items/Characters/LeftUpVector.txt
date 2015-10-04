@@ -1,0 +1,2 @@
+Unicode = 21BF
+AliasNumber = 0

@@ -1,0 +1,2 @@
+Unicode = F3A8
+AliasNumber = 0

@@ -1,0 +1,4 @@
+Unicode = 03A3
+AliasNumber = 2
+S
+Sigma

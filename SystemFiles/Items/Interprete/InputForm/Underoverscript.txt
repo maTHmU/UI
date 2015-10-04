@@ -1,0 +1,6 @@
+Priority = 1
+0 UnderoverscriptBox 3
+-1 0
+-1 1
+-1 2
+InputForm = Underoverscript[%(0), %(1), %(2)]

@@ -1,0 +1,4 @@
+Unicode = 03DD
+AliasNumber = 2
+di
+digamma

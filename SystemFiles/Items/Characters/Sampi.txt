@@ -1,0 +1,4 @@
+Unicode = 03E0
+AliasNumber = 2
+sa
+sampi

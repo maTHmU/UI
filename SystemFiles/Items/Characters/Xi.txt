@@ -1,0 +1,4 @@
+Unicode = 03BE
+AliasNumber = 2
+x
+xi

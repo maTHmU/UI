@@ -1,0 +1,3 @@
+Unicode = 212D
+AliasNumber = 1
+goC

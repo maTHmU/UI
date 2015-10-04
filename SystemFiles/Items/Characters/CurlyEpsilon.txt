@@ -1,0 +1,4 @@
+Unicode = 03B5
+AliasNumber = 2
+ce
+cepsilon

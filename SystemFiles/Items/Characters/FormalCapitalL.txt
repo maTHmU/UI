@@ -1,0 +1,3 @@
+Unicode = F825
+AliasNumber = 1
+$L

@@ -1,0 +1,21 @@
+File_New 新建
+File_Open 打开
+File_Save 保存
+File_SaveAs 另存为
+File_Close 关闭
+File_Exit 退出
+
+Edit_UnDo 撤销
+Edit_ReDo 重做
+Edit_Find 查找
+
+Edit_Cut 剪切
+Edit_Copy 复制
+Edit_Paste 粘贴
+Edit_Clear 删除
+
+Palletes_AlgebraicManipulation 代数运算面板
+Palletes_BasicMathInput 基本数学输入面板
+
+Windows_Preferences 使用偏好
+Help_HelpCenter 帮助中心

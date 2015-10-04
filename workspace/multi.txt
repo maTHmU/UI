@@ -1,0 +1,34 @@
+Notebook[{
+
+Cell[CellGroupData[{
+Cell[BoxData[
+ RowBox[{"1", "+", "2"}]], CellStyle = "Input"],
+
+Cell[BoxData["3"], CellStyle = "Output"]
+}]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[{
+ RowBox[{"2", "*", "5"}], "   ", 
+ RowBox[{"3", "-", "7"}]}], CellStyle = "Input"],
+
+Cell[BoxData["10"], CellStyle = "Output"],
+
+Cell[BoxData[
+ RowBox[{"-", "4"}]], CellStyle = "Output"]
+}]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"10", "!"}]], CellStyle = "Input"],
+
+Cell[BoxData["3628800"], CellStyle = "Output"]
+}]],
+
+},
+
+DefaultStyle = "default.mu"
+
+]

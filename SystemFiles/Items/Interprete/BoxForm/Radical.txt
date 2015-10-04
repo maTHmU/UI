@@ -1,0 +1,9 @@
+Priority = 20
+0 3
+1 Power
+-1 0 0
+0 3
+1 Divide
+1 1
+-1 1 0
+BoxForm = RadicalBox[%(0), %(1)]

@@ -1,0 +1,8 @@
+Symbols = 1
+Operators = 2
+0 F3B3 1.0
+1 0000 1.0
+1 0000 1.0
+CurrentAsFirst = 1
+ItemTurn = RowBox(SubscriptBox(0[0;0],1[0;1])[0;0],2[1;0])[0;0]
+InputForm = Leftsubscript(1, 2)

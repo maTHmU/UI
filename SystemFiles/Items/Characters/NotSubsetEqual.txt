@@ -1,0 +1,3 @@
+Unicode = 2288
+AliasNumber = 1
+!sub=

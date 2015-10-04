@@ -1,0 +1,5 @@
+Priority = 10
+0 FractionBox 2
+-1 0
+-1 1
+InputForm = Divide[%(0), %(1)]

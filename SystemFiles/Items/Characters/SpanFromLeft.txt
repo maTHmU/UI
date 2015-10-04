@@ -1,0 +1,3 @@
+Unicode = F3BA
+AliasNumber = 1
+sfl

@@ -1,0 +1,3 @@
+Unicode = F7AC
+AliasNumber = 1
+dsI

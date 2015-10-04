@@ -1,0 +1,11 @@
+0 SuperscriptBox
+1 SubscriptBox
+2 SubsuperscriptBox
+3 OverscriptBox
+4 UnderscriptBox
+5 UnderoverscriptBox
+6 FractionBox
+7 SqrtBox
+8 RadicalBox
+9 RowBox
+10 GridBox

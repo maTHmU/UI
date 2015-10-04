@@ -1,0 +1,2 @@
+Unicode = F767
+AliasNumber = 0

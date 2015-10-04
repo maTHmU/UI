@@ -1,0 +1,3 @@
+Unicode = F6CC
+AliasNumber = 1
+goa

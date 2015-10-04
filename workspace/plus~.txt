@@ -1,0 +1,14 @@
+Notebook[{
+
+Cell[CellGroupData[{
+Cell[BoxData[
+ SuperscriptBox["2", "2"]], CellStyle = "Input"
+],
+
+Cell[BoxData["4"], CellStyle = "Output"
+]
+}]]
+},
+
+DefaultStyle = "default.mu"
+]

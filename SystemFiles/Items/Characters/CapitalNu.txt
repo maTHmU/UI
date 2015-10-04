@@ -1,0 +1,4 @@
+Unicode = 039D
+AliasNumber = 2
+N
+Nu

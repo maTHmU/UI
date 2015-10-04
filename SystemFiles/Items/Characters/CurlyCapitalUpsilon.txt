@@ -1,0 +1,4 @@
+Unicode = 03D2
+AliasNumber = 2
+cU
+cUpsilon

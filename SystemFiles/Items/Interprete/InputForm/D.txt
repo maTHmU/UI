@@ -1,0 +1,8 @@
+Priority = 100
+0 RowBox 3
+0 SubscriptBox 2
+1 2202
+-1 0
+1 0020
+-1 1
+InputForm = D[%(1), %(0)]

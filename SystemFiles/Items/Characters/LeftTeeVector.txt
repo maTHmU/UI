@@ -1,0 +1,2 @@
+Unicode = 295A
+AliasNumber = 0

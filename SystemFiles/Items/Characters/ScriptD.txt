@@ -1,0 +1,3 @@
+Unicode = F6B5
+AliasNumber = 1
+scd

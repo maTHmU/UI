@@ -1,0 +1,4 @@
+Unicode = 03DA
+AliasNumber = 2
+Sti
+Stigma

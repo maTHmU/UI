@@ -1,0 +1,2 @@
+Unicode = F526
+AliasNumber = 0

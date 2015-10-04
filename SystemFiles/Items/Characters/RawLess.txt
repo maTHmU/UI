@@ -1,0 +1,2 @@
+Unicode = 003C
+AliasNumber = 0

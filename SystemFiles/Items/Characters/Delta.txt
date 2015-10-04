@@ -1,0 +1,4 @@
+Unicode = 03B4
+AliasNumber = 2
+d
+delta

@@ -1,0 +1,6 @@
+Priority = 1
+0 SubsuperscriptBox 3
+-1 0
+-1 1
+-1 2
+InputForm = Subsuperscript[%(0), %(1), %(2)]

@@ -1,0 +1,4 @@
+Unicode = 0396
+AliasNumber = 2
+Z
+Zeta

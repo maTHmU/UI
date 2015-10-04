@@ -1,0 +1,3 @@
+Unicode = F7D2
+AliasNumber = 1
+opt

@@ -1,0 +1,2 @@
+Unicode = F762
+AliasNumber = 0

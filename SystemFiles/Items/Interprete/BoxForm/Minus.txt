@@ -1,0 +1,5 @@
+Priority = 10
+0 2
+1 Minus
+-1 0 0
+BoxForm = RowBox[{"-", %(0)}]

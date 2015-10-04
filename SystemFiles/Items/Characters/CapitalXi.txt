@@ -1,0 +1,4 @@
+Unicode = 039E
+AliasNumber = 2
+X
+Xi

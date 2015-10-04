@@ -1,0 +1,7 @@
+Symbols = 1
+Operators = 1
+1 0000 1.0
+0 005F 1.0
+CurrentAsFirst = 1
+ItemTurn = OverscriptBox(0[0;0],1[0;1])[0;0]
+InputForm = OverBar(0)

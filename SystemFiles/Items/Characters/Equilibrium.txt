@@ -1,0 +1,3 @@
+Unicode = 21CC
+AliasNumber = 1
+equi

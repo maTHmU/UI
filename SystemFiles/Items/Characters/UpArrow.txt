@@ -1,0 +1,2 @@
+Unicode = 2191
+AliasNumber = 0

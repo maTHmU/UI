@@ -1,0 +1,4 @@
+Unicode = 263A
+AliasNumber = 2
+:)
+:-)

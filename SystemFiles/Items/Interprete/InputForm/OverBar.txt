@@ -1,0 +1,5 @@
+Priority = 100
+0 OverscriptBox 2
+-1 0
+1 005F
+InputForm = OverBar[%(0)]

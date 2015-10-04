@@ -1,0 +1,2 @@
+Unicode = 21D3
+AliasNumber = 0

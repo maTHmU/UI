@@ -1,0 +1,2 @@
+Unicode = F761
+AliasNumber = 0

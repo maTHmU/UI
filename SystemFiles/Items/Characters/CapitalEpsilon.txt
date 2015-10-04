@@ -1,0 +1,4 @@
+Unicode = 0395
+AliasNumber = 2
+E
+Epsilon

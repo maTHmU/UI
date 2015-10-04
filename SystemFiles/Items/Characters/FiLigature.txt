@@ -1,0 +1,2 @@
+Unicode = FB01
+AliasNumber = 0

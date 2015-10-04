@@ -1,0 +1,4 @@
+Unicode = F720
+AliasNumber = 2
+wf
+wolf

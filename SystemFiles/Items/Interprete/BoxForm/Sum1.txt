@@ -1,0 +1,9 @@
+Priority = 10
+0 3
+1 Sum
+-1 0 1
+0 3
+1 List
+-1 1 0
+-1 2 0
+BoxForm = RowBox[{UnderoverscriptBox["\[Sum]", %(1), %(2)], %(0)}]

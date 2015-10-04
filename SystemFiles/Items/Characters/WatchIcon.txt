@@ -1,0 +1,2 @@
+Unicode = 231A
+AliasNumber = 0

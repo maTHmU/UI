@@ -1,0 +1,2 @@
+Unicode = F75F
+AliasNumber = 0
